@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+torchvision
+sentencepiece
+bitsandbytes
+huggingface-hub
+SpeechRecognition
+pyaudio
+Pillow
+opencv-python
+numpy
+scipy
